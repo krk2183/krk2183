@@ -79,7 +79,7 @@ I operate under two identities to separate signal from noise:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krk2183&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krk2183&layout=compact&theme=graywhite&hide_border=true" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Initializing+Slatecore+Protocol...;Architecting+scalable+infrastructure.;Training+PyTorch+models.;Optimizing+workflow+intelligence.;System+Online." alt="Typing SVG" />
+  </a>
 </div>
