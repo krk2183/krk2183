@@ -32,8 +32,8 @@
 > I build systems that remain usable as they evolve.
 
 I operate under two identities to separate signal from noise:
-* **Kenan Kerimzade:** Public-facing milestones, long-term credibility, and business logic.
-* **KRK2183:** The engine room. Experimental systems, tooling, and open-source contributions.
+* **Kanan Karimzada:** Public-facing milestones, long-term credibility, and business logic.
+* **KRK2183:** The development account. Experimental systems, tooling, and open-source contributions.
 
 ---
 
