@@ -1,1 +1,85 @@
-![Metrics](https://metrics.lecoq.io/?template=classic&isocalendar=1&languages=1&stargazers=1&topics=1&people=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FBaku)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Slatecore%20Collective&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=KRK2183%20//%20Kanan%20Karimzada&descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
+
+  <h3>SYSTEMS ARCHITECTURE · FULL-STACK ENGINEERING · INTELLIGENCE</h3>
+  
+  <p>
+    <em>Building infrastructure for clarity, leverage, and longevity.</em>
+  </p>
+
+  <a href="https://github.com/krk2183">
+    <img src="https://img.shields.io/badge/OPERATOR-KRK2183-1e293b?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/ENTITY-SLATECORE-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/k-k-34443422b/">
+    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+</div>
+
+<br />
+
+---
+
+### <img src="https://media.giphy.com/media/VjCKL1w7NCnA4/giphy.gif" width="25"> The Objective
+
+> **Slatecore Collective** is the unification of my professional work, products, and platforms.  
+> I build systems that remain usable as they evolve.
+
+I operate under two identities to separate signal from noise:
+* **Kenan Kerimzade:** Public-facing milestones, long-term credibility, and business logic.
+* **KRK2183:** The engine room. Experimental systems, tooling, and open-source contributions.
+
+---
+
+### <img src="https://media.giphy.com/media/QssGEmpjgu8M0/giphy.gif" width="25"> Technical Stack
+
+**Core Engineering**
+<br />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+**Data & Intelligence**
+<br />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+
+---
+
+### <img src="https://media.giphy.com/media/L0O3TQpp0WnSXmxV8p/giphy.gif" width="25"> Systems & Platforms
+
+| Entity | Description | Type |
+| :--- | :--- | :--- |
+| **TaskLinex** | Human-friendly task & roadmap management focused on reducing cognitive friction. | `Platform` |
+| **ESGate** | ESG intelligence and reporting platform designed for SMEs. | `Analytics` |
+| **Slatecore** | The umbrella infrastructure for all deployed production assets. | `Brand` |
+
+---
+
+### <img src="https://media.giphy.com/media/iCXxB7MmvqT8FjhMOU/giphy.gif" width="25"> Operating Principles
+
+1.  **Structure over chaos.**
+2.  **Signal over volume.**
+3.  **Systems over features.**
+4.  **Longevity over virality.**
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krk2183&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krk2183&layout=compact&theme=graywhite&hide_border=true" />
+</div>
