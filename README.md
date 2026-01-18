@@ -29,7 +29,6 @@
 ### <img src="https://media.giphy.com/media/VjCKL1w7NCnA4/giphy.gif" width="25"> The Objective
 
 > **Slatecore Collective** is the unification of my professional work, products, and platforms.  
-> I build systems that remain usable as they evolve.
 
 I operate under two identities to separate signal from noise:
 * **Kanan Karimzada:** Public-facing milestones, long-term credibility, and business logic.
