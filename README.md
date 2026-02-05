@@ -30,7 +30,7 @@
 
 > **Slatecore Collective** is the unification of my professional work, products, and platforms.  
 
-I operate under two identities to separate signal from noise:
+ I'm a big believer in digital compartmentalization
 * **Kanan Karimzada:** Public-facing milestones, long-term credibility, and business logic.
 * **KRK2183:** The development account. Experimental systems, tooling, and open-source contributions.
 
