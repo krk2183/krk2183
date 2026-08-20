@@ -2,7 +2,7 @@
 
 I build machine learning systems, full-stack web applications, and developer tools. 
 
-Currently preparing for the **International Olympiad in Artificial Intelligence (IOAI)** and working on personal software products.
+Currently preparing for the **Conrad Challenge** and working on personal software products.
 
 ---
 
